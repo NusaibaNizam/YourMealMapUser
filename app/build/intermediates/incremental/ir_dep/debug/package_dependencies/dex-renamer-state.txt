@@ -1,0 +1,4 @@
+#Tue Oct 15 17:39:54 BDT 2019
+base.0=D\:\\Your Meal Map\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

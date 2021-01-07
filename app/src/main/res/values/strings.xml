@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Restaurant Location Tracker</string>
+    <string name="Map_api"> AIzaSyAmt0D2ebXmqspo33UOtdGDl0pJUqocNEE </string>
+    <string name="google_direction_api"> AIzaSyAVVxCGAJcXWDUad_dOGiShO158s_mClzQ </string>
+    <string name="google_near_by_places_api"> AIzaSyAAc2rX7Bv9aLLYyE9qT2QYji5oK_RwKL8 </string>
+</resources>

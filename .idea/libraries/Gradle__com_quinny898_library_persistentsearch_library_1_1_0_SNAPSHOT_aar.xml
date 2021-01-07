@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.1.0-SNAPSHOT.aar/30ff8c1e745b92bff622e37538835adb/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.1.0-SNAPSHOT.aar/30ff8c1e745b92bff622e37538835adb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.1.0-SNAPSHOT.aar/30ff8c1e745b92bff622e37538835adb/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-library-1.1.0-SNAPSHOT.aar/30ff8c1e745b92bff622e37538835adb/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
